@@ -1,4 +1,4 @@
-*Warning: Repository may contain content offensive in nature!*
+*Warning: This repository may contain content offensive in nature!*
 
 # Hate Speech Classification
 
