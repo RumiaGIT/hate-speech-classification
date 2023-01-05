@@ -18,7 +18,6 @@ Data Science AI Portfolio.docx:   Context about the The Equal Web, the project, 
                                   May contain parts only relevant within the school project's context.
 README.md:                        You're reading it.
 example.png:                      Example image to show utilization of the model.
-hate-speech-detection.html:       HTML version of the Jupyter Notebook file for easy access.
 hate-speech-detection.ipynb:      The finalized code for usage of the model and labelling of data.
 ~~~
 
