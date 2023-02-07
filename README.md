@@ -2,7 +2,7 @@
 
 # Hate Speech Classification
 
-A school project for the fictional organization The Equal Web, focused on utilizing Natural Language Processing for the classification of textual sequences as normal, offensive, or hate speech. The implementation utilizes a Transformer architecture-based model known as HateXplain, hosted on Hugging Face. The project underwent the usual phases of the CRISP-DM cycle, whose modelling phase's results are shown in this repository's Jupyter Notebook file. While the model is pre-trained and available for use out of the box, it also underwent a fine-tuning process in this project to vastly improve the model's accuracy for this specific scenario.
+A school project for the fictional organization The Equal Web, focused on utilizing Natural Language Processing for the classification of textual sequences as normal, offensive, or hate speech. The implementation utilizes a Transformer architecture-based model known as HateXplain, hosted on Hugging Face. The project underwent the usual phases of the CRISP-DM cycle, which modelling phase's results are shown in this repository's Jupyter Notebook file. While the model is pre-trained and available for use out of the box, it also underwent a fine-tuning to vastly improve the model's accuracy for this project's specific use case.
 
 Example:
 
@@ -18,7 +18,6 @@ Data Science AI Portfolio.docx:   Context about the The Equal Web, the project, 
                                   May contain parts only relevant within the school project's context.
 README.md:                        You're reading it.
 example.png:                      Example image to show utilization of the model.
-hate-speech-detection.html:       HTML version of the Jupyter Notebook file for easy access.
 hate-speech-detection.ipynb:      The finalized code for usage of the model and labelling of data.
 ~~~
 
